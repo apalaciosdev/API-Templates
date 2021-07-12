@@ -1,4 +1,4 @@
-# Plantilla básica Node.js con Express
+# API básica Node.js con Express
 
 _API funcional con conexión a base de datos de Mongo.db_
 
